@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "241251279248",
+    "firebase_url": "https://automation-1a6c6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "automation-1a6c6",
+    "storage_bucket": "automation-1a6c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241251279248:android:e6ff9fbddbf5db51589315",
+        "android_client_info": {
+          "package_name": "com.example.automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQLDyQGbFmE5Y2Nuu0_8kr3cZ8hfx49VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
