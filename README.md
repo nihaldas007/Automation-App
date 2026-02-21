@@ -4,9 +4,9 @@ A sleek, modern smart home application built with Flutter that interfaces with a
 ## 📸 App Interface
 
 <p align="center">
-  <img src="screenshots/splash.png" width="300" alt="Splash Screen">
+  <img src="screenshots/splash.jpeg" width="300" alt="Splash Screen">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/main.png" width="300" alt="Main Page">
+  <img src="screenshots/main.jpeg" width="300" alt="Main Page">
 </p>
 ## 🚀 Features
 
