@@ -1,7 +1,13 @@
 # Smart Home Automation App 🏠✨
 
 A sleek, modern smart home application built with Flutter that interfaces with an ESP32 microcontroller via Firebase Realtime Database. This app allows users to seamlessly monitor room conditions and control lighting remotely.
+## 📸 App Interface
 
+<p align="center">
+  <img src="screenshots/splash.png" width="300" alt="Splash Screen">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/main.png" width="300" alt="Main Page">
+</p>
 ## 🚀 Features
 
 * **🌡️ Real-Time Climate Monitoring:** Displays live temperature and humidity readings from the room.
