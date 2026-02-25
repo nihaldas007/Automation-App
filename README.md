@@ -1,16 +1,41 @@
-# automation
+# Smart Home Automation App 🏠✨
 
-A new Flutter project.
+A sleek, modern smart home application built with Flutter that interfaces with an ESP32 microcontroller via Firebase Realtime Database. This app allows users to seamlessly monitor room conditions and control lighting remotely.
+## 📸 App Interface
 
-## Getting Started
+<p align="center">
+  <img src="screenshots/splash.jpeg" width="300" alt="Splash Screen">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/main.jpeg" width="300" alt="Main Page">
+</p>
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+* **🌡️ Real-Time Climate Monitoring:** Displays live temperature and humidity readings from the room.
+* **💡 Remote Light Control:** Instantly toggle lights ON or OFF with a responsive switch.
+* **🔅 Brightness Adjustment:** Smooth slider to dynamically adjust the light's brightness level (0-100%).
+* **🟢 Connection Status:** Real-time indicator showing if the app is successfully connected to the hardware/database.
+* **📱 Modern UI:** Beautiful, dark-themed user interface with intuitive controls.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Frontend:** Flutter (Dart)
+* **Backend:** Firebase Realtime Database
+* **Hardware:** ESP32 Microcontroller
+* **Sensors (Suggested):** DHT11/DHT22 (for temp/humidity), LEDs or Relays (for lighting)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 App Interface
+
+*(You can upload your app screenshot to your repo and link it here! Example: `![App UI](link-to-image.png)`)*
+
+## ⚙️ Getting Started
+
+### Prerequisites
+* Flutter SDK installed on your machine.
+* An active Firebase project with Realtime Database enabled.
+* Arduino IDE (or PlatformIO) to program the ESP32.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/nihaldas007/Automation-App.git](https://github.com/nihaldas007/Automation-App.git)
